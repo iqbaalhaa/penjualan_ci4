@@ -1,0 +1,32 @@
+Menu Admin
+Dashboard Admin
+Tampilan ringkasan penjualan, stok, dan laporan keuangan secara keseluruhan.
+Manajemen Pengguna
+Tambah, edit, hapus data karyawan.
+Atur hak akses masing-masing pengguna.
+Manajemen Produk
+Tambah, edit, hapus data produk.
+Update stok dan harga produk.
+Laporan & Analitik
+Laporan penjualan harian, bulanan, dan tahunan.
+Analisis performa produk dan keuangan.
+Pengaturan Sistem
+Konfigurasi aplikasi (misalnya pengaturan promosi, metode pembayaran).
+Backup data, pengaturan keamanan, dan audit log.
+Menu User
+Dashboard User
+Tampilan ringkasan transaksi harian dan notifikasi terkait stok.
+Transaksi Penjualan
+Form input transaksi penjualan.
+Pencetakan struk atau nota penjualan.
+Riwayat Transaksi
+Melihat data transaksi yang telah dilakukan.
+Manajemen Pelanggan (opsional)
+Input data pelanggan dan lihat histori pembelian.
+Notifikasi & Pengingat
+Informasi tentang stok yang menipis atau transaksi bermasalah.
+===============================
+Admin 	: admin
+	  admin123
+User	: ayek
+	  ayek123
